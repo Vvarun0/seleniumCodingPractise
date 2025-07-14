@@ -1,4 +1,5 @@
 package Selenium;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -64,8 +65,9 @@ public class CalenderAutomation {
 
     /**
      * Automates selecting a date in a jQuery UI Datepicker.
-     * @param driver The WebDriver instance.
-     * @param wait The WebDriverWait instance.
+     *
+     * @param driver     The WebDriver instance.
+     * @param wait       The WebDriverWait instance.
      * @param targetDate The LocalDate object representing the desired date.
      */
     public static void selectDateInJQueryUIDatePicker(WebDriver driver, WebDriverWait wait, LocalDate targetDate) {
