@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fcecb9d-d639-4495-81be-b4f6c574cb2a" name="Changes" comment="HandleShadowDomElement code">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/CalenderDatePickerAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Alert_ActionHandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium/CalenderAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium/CalenderAutomation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +23,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vvarun0&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vvarun0/seleniumCodingPractise.git&quot;,
+    &quot;accountId&quot;: &quot;7eaeb1b9-4474-4ad2-b354-5e6c0adb0ab1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2zSRvtLhUqCg6M7RcX43nM5rVBP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -46,14 +56,17 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Alert_ActionHandle.test_Actions.executor": "Run",
     "TestNG.C:/Users/nkcha/IdeaProjects/Selenium_Coding/testng.xml.executor": "Run",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nkcha/IdeaProjects/Selenium_Coding"
+    "last_opened_file_path": "E:/GitHub Repos/seleniumCodingPractise"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalenderDatePickerAutomation">
+  <component name="RunManager" selected="TestNG.Alert_ActionHandle.test_Actions">
     <configuration name="CalenderDatePickerAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Selenium.CalenderDatePickerAutomation" />
       <module name="Selenium_Coding" />
@@ -106,10 +119,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/nkcha/IdeaProjects/Selenium_Coding/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Alert_ActionHandle.test_Actions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Coding" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Alert_ActionHandle" />
+      <option name="METHOD_NAME" value="test_Actions" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -118,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Alert_ActionHandle.test_Actions" />
         <item itemvalue="Application.CalenderDatePickerAutomation" />
         <item itemvalue="Application.CalenderDatepickerAutomation" />
         <item itemvalue="Application.HandleMultipleWindows" />
         <item itemvalue="Application.DynamicWebTable" />
-        <item itemvalue="TestNG.C:/Users/nkcha/IdeaProjects/Selenium_Coding/testng.xml" />
       </list>
     </recent_temporary>
   </component>
