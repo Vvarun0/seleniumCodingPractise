@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fcecb9d-d639-4495-81be-b4f6c574cb2a" name="Changes" comment="HandleShadowDomElement code">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Alert_ActionHandle.java" afterDir="false" />
+    <list default="true" id="4fcecb9d-d639-4495-81be-b4f6c574cb2a" name="Changes" comment="Amazon Alert Actions demo">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Check_SSL_Cookie_BrokenLinks_Screenshot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,54 +60,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.Alert_ActionHandle.test_Actions.executor": "Run",
     "TestNG.C:/Users/nkcha/IdeaProjects/Selenium_Coding/testng.xml.executor": "Run",
+    "TestNG.CheckBrokenLinks.test_SSLCertificates.executor": "Run",
+    "TestNG.Check_SSL_Cookie_BrokenLinks_Screenshot.test_BrokenLinks.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/GitHub Repos/seleniumCodingPractise"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Alert_ActionHandle.test_Actions">
+  <component name="RunManager" selected="TestNG.Check_SSL_Cookie_BrokenLinks_Screenshot.test_Screenshot">
     <configuration name="CalenderDatePickerAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Selenium.CalenderDatePickerAutomation" />
-      <module name="Selenium_Coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalenderDatepickerAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.CalenderDatepickerAutomation" />
-      <module name="Selenium_Coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicWebTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.DynamicWebTable" />
-      <module name="Selenium_Coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HandleMultipleWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium.HandleMultipleWindows" />
       <module name="Selenium_Coding" />
       <extension name="coverage">
         <pattern>
@@ -137,13 +100,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CheckBrokenLinks.test_SSLCertificates" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.CheckBrokenLinks" />
+      <option name="METHOD_NAME" value="test_SSLCertificates" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check_SSL_Cookie_BrokenLinks_Screenshot.test_BrokenLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Check_SSL_Cookie_BrokenLinks_Screenshot" />
+      <option name="METHOD_NAME" value="test_BrokenLinks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check_SSL_Cookie_BrokenLinks_Screenshot.test_Screenshot" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Check_SSL_Cookie_BrokenLinks_Screenshot" />
+      <option name="METHOD_NAME" value="test_Screenshot" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Check_SSL_Cookie_BrokenLinks_Screenshot.test_Screenshot" />
+        <item itemvalue="TestNG.Check_SSL_Cookie_BrokenLinks_Screenshot.test_BrokenLinks" />
+        <item itemvalue="TestNG.CheckBrokenLinks.test_SSLCertificates" />
         <item itemvalue="TestNG.Alert_ActionHandle.test_Actions" />
         <item itemvalue="Application.CalenderDatePickerAutomation" />
-        <item itemvalue="Application.CalenderDatepickerAutomation" />
-        <item itemvalue="Application.HandleMultipleWindows" />
-        <item itemvalue="Application.DynamicWebTable" />
       </list>
     </recent_temporary>
   </component>
@@ -164,12 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1752009829973</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Amazon Alert Actions demo">
+      <option name="closed" value="true" />
+      <created>1755195370552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755195370552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="HandleShadowDomElement code" />
-    <option name="LAST_COMMIT_MESSAGE" value="HandleShadowDomElement code" />
+    <MESSAGE value="Amazon Alert Actions demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amazon Alert Actions demo" />
   </component>
 </project>
